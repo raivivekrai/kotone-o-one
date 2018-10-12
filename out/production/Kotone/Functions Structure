@@ -1,0 +1,7 @@
+fun functionName(parameter1: DataType, parameter2: DataType): ReturnDataType{
+function body
+return
+}
+
+if you dont want to return anything then ReturnDataType should be specified as 'Unit' or leave it blank default is Unit (corresponding to void in java)
+
